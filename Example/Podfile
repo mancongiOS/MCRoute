@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MCRoute_Example' do
+  pod 'MCRoute', :path => '../'
+
+  target 'MCRoute_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

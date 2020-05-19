@@ -1,0 +1,23 @@
+{
+  "name": "MCRoute",
+  "version": "0.0.1",
+  "summary": "MCRoute 路由",
+  "homepage": "https://github.com/mancongiOS/MCSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MC": "562863544@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/mancongiOS/MCRoute.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "MCRoute/Classes/**/*",
+  "swift_version": "5.0"
+}

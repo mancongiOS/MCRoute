@@ -1,0 +1,6 @@
+framework module Pods_MCRoute_Example {
+  umbrella header "Pods-MCRoute_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

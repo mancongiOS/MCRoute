@@ -1,0 +1,6 @@
+framework module MCRoute {
+  umbrella header "MCRoute-umbrella.h"
+
+  export *
+  module * { export * }
+}
